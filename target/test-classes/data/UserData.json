@@ -1,0 +1,36 @@
+[
+ {
+  "email":" tester1@task.com",
+  "password":"11111111",
+  "type":"wrong mail",
+  "message":"These credentials do not match our records."
+ },
+  {
+  "email":" tester@task.com",
+  "password":"111111112",
+  "type":"wrong password",
+  "message":"These credentials do not match our records."
+ },
+   {
+  "email":" tester@task.com",
+  "password":"11111111",
+  "type":"valid credntial",
+  "message":"https://staging.mazaady.com/home"
+  },
+  
+  {
+  "auctionName1":"ashraf",
+  "autoSearch1":"FURNITURE & FURNISHINGS FITTINGS",
+  "autoSearch2":"Furniture , Furnishings",
+  "count":"4",
+  "text1":"please write your details here",
+  "text2":"please write your policy here",
+  "buyValue":"133333",
+  "bidValue":"888",
+  "estimateValue":"12222"
+  }
+  
+  
+  
+ 
+]
